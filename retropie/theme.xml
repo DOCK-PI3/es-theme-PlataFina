@@ -23,10 +23,10 @@ INFO: Theme base para crear desde cero de una forma facil!
 	
 		<image name="logo">
 			<path>./system.png</path>
-			<pos>0.802 0.01</pos>
+<!-- 			<pos>0.802 0.01</pos>
 			<maxSize>0.18 0.196</maxSize>
 			<size>0.169 0.185</size>
-			<origin>0 0</origin>
+			<origin>0 0</origin> -->
 		</image>
 			<text name="md_title">
 			<color>ffffff</color>
